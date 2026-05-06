@@ -37,8 +37,8 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkayerol0&show_icons=true&theme=dark&icon_color=00BFFF&title_color=00BFFF&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayerol0&layout=compact&theme=dark&text_color=ffffff&title_color=00BFFF&hide=html,css" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=berkayerol0&show_icons=true&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayerol0&layout=compact&theme=tokyonight" height="180px" />
 </p>
 
 <div align="center">
