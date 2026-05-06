@@ -2,7 +2,7 @@
   <img src="MuhammedBerkayErolGitHubİçinReadMe.png" alt="Muhammed Berkay Erol" width="100%">
 
   <p align="center">
-    <strong>Backend Developer | AI Enthusiast | Cloud Architect</strong><br>
+    <strong>Backend Developer | Cloud-Native | LLM & Multi-Agent Workflows</strong><br>
     <a href="https://muhammedberkay.com">🌐 Portfolio</a> • 
     <a href="https://www.linkedin.com/in/muhammed-berkay-erol-b941652b3">🔗 LinkedIn</a> • 
     <a href="mailto:berkay.erol.354@hotmail.com">✉️ Email</a>
